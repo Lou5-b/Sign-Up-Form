@@ -93,6 +93,12 @@ form {
     padding-right: 50px;
 }
 
+#error-msg {
+    color: darkred;
+    font-size: 10px;
+    opacity: 0;
+}
+
 .container-2 {
     display: flex;
     flex-direction: column;
